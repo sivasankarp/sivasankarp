@@ -7,9 +7,9 @@
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about BlockChain, AI/ML,VR, DataScience.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@tutorsiva).
-- 💬 Ask me about Mobile, Web, DevOps & Cloud or any tech-related stuff.
+- 💬 Ask me about Mobile, Web, AI/ML, Data arch, DevOps & Cloud or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost with my kids & listening to songs every day.
+- ⚡ Fun fact: I spend almost with kids & listening to songs every day.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sivasankar3112/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasankarponnurangam/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sivadaa) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sivasankar_p) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tutorsiva) [![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/sivasankarp)
